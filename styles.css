@@ -152,8 +152,8 @@ footer {
   border-radius: 5px;
 }
 .contact-form button {
-  background-color: blue; /* Blue */
-  color: #003366; /* Dark Blue */
+  background-color: #003366; /* Blue */
+  color: #ffffff; /* Dark Blue */
   border: none;
   padding: 10px 20px;
   cursor: pointer;
